@@ -3,13 +3,13 @@
 	"id": "unclutter",
 	"version": "${version}",
 	"name": "Unclutter",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Simple mod that solves the game's inventory clutter problems",
 	"authors": [
-		"Me!"
+		"Fomel4ik & MadJoy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/fomel4ik/unclutter"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/unclutter/icon.png",
